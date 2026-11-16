@@ -1,0 +1,150 @@
+{
+  "ticker": "CRWD",
+  "checked_at": "2026-11-16",
+  "quarters": [
+    {
+      "gaap_gross_margin": 75,
+      "gaap_operating_margin": -5.62,
+      "non_gaap_operating_margin": 21.44,
+      "gaap_eps": -0.14,
+      "non_gaap_eps": 0.96,
+      "operating_cash_flow": 397.5,
+      "capex": 83.395,
+      "fcf": 295.9,
+      "fcf_margin": 23.97,
+      "sbc": null,
+      "diluted_shares": 251.326,
+      "kpis": {
+        "ARR": 4920,
+        "Net New ARR": 265.3,
+        "GAAP 訂閱毛利率（%）": 78
+      },
+      "eps_basis": "原始公告、拆股前；不可與拆股後 EPS 直接比較",
+      "fiscal_year": 2026,
+      "fiscal_quarter": 3,
+      "period_end": "2025-10-31",
+      "release_date": "2025-12-02",
+      "checked_at": "2026-11-16",
+      "currency": "USD",
+      "unit": "million",
+      "revenue": 1234.244,
+      "revenue_yoy": 22,
+      "source_urls": [
+        "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-reports-third-quarter-fiscal-year-2026-financial"
+      ],
+      "status": "部分欄位待核對"
+    },
+    {
+      "gaap_gross_margin": 76,
+      "gaap_operating_margin": -0.53,
+      "non_gaap_operating_margin": 24.96,
+      "gaap_eps": 0.15,
+      "non_gaap_eps": 1.12,
+      "operating_cash_flow": 497.9,
+      "capex": 102.465,
+      "fcf": 376.4,
+      "fcf_margin": 28.83,
+      "sbc": null,
+      "diluted_shares": null,
+      "kpis": {
+        "ARR": 5250,
+        "Net New ARR": 330.7,
+        "GAAP 訂閱毛利率（%）": 79
+      },
+      "eps_basis": "原始公告、拆股前；不可與拆股後 EPS 直接比較",
+      "fiscal_year": 2026,
+      "fiscal_quarter": 4,
+      "period_end": "2026-01-31",
+      "release_date": "2026-03-03",
+      "checked_at": "2026-11-16",
+      "currency": "USD",
+      "unit": "million",
+      "revenue": 1305.375,
+      "revenue_yoy": 23,
+      "source_urls": [
+        "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-reports-fourth-quarter-and-fiscal-year-2026"
+      ],
+      "status": "部分欄位待核對"
+    },
+    {
+      "gaap_gross_margin": 75.3,
+      "gaap_operating_margin": -2.21,
+      "non_gaap_operating_margin": 23.51,
+      "gaap_eps": 0.11,
+      "non_gaap_eps": 1.1,
+      "operating_cash_flow": 590.9,
+      "capex": 97.624,
+      "fcf": 468.5,
+      "fcf_margin": 33.81,
+      "sbc": null,
+      "diluted_shares": 257.881,
+      "kpis": {
+        "ARR": 5510,
+        "Net New ARR": 255.8,
+        "GAAP 訂閱毛利率（%）": 78
+      },
+      "eps_basis": "原始公告、拆股前；2026-07-02 起一拆四交易",
+      "fiscal_year": 2027,
+      "fiscal_quarter": 1,
+      "period_end": "2026-04-30",
+      "release_date": "2026-06-03",
+      "checked_at": "2026-11-16",
+      "currency": "USD",
+      "unit": "million",
+      "revenue": 1385.629,
+      "revenue_yoy": 26,
+      "source_urls": [
+        "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-reports-first-quarter-fiscal-year-2027-financial"
+      ],
+      "status": "部分欄位待核對"
+    },
+    {
+      "gaap_gross_margin": 74.57,
+      "gaap_operating_margin": -2.26,
+      "non_gaap_operating_margin": 25.26,
+      "gaap_eps": 0.01,
+      "non_gaap_eps": 0.31,
+      "operating_cash_flow": 530.3,
+      "capex": 124.413,
+      "fcf": 377.4,
+      "fcf_margin": 25.66,
+      "sbc": null,
+      "diluted_shares": 1044.469,
+      "kpis": {
+        "ARR": 5840,
+        "Net New ARR": 332.8,
+        "GAAP 訂閱毛利率（%）": 78
+      },
+      "eps_basis": "原始公告、已反映一拆四",
+      "fiscal_year": 2027,
+      "fiscal_quarter": 2,
+      "period_end": "2026-07-31",
+      "release_date": "2026-08-26",
+      "checked_at": "2026-11-16",
+      "currency": "USD",
+      "unit": "million",
+      "revenue": 1470.897,
+      "revenue_yoy": 26,
+      "source_urls": [
+        "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-reports-second-quarter-fiscal-year-2027-financial"
+      ],
+      "status": "部分欄位待核對"
+    }
+  ],
+  "methodology": "營收 YoY 與部分比率採公司公告四捨五入值。由金額計算之比率保留兩位小數；歷史 EPS 採各期原始新聞稿口徑。null 代表本版待核對，不等於公司未揭露。",
+  "guidance": {
+    "as_of": "2026-08-26",
+    "source_url": "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-reports-second-quarter-fiscal-year-2027-financial",
+    "next_period": "FY2027 Q3",
+    "next_revenue": [
+      1523.2,
+      1529.2
+    ],
+    "full_period": "FY2027",
+    "full_revenue": [
+      5991.1,
+      6011.1
+    ],
+    "note": "官方財測，非已實現營收。"
+  }
+}

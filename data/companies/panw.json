@@ -1,0 +1,155 @@
+{
+  "ticker": "PANW",
+  "checked_at": "2026-11-16",
+  "quarters": [
+    {
+      "gaap_gross_margin": 74.21,
+      "gaap_operating_margin": 12.49,
+      "non_gaap_operating_margin": 30.2,
+      "gaap_eps": 0.47,
+      "non_gaap_eps": 0.93,
+      "operating_cash_flow": 1771,
+      "capex": 84,
+      "fcf": 1687,
+      "fcf_margin": 68.19,
+      "sbc": 370,
+      "diluted_shares": 709,
+      "kpis": {
+        "NGS ARR": 5900,
+        "RPO": 15500,
+        "訂閱與支援收入": 2040,
+        "產品收入": 434
+      },
+      "fiscal_year": 2026,
+      "fiscal_quarter": 1,
+      "period_end": "2025-10-31",
+      "release_date": "2025-11-19",
+      "checked_at": "2026-11-16",
+      "currency": "USD",
+      "unit": "million",
+      "revenue": 2474,
+      "revenue_yoy": 16,
+      "source_urls": [
+        "https://www.paloaltonetworks.com/company/press/2025/palo-alto-networks-reports-fiscal-first-quarter-2026-financial-results",
+        "https://www.sec.gov/Archives/edgar/data/1327567/000132756725000035/panw-20251031.htm"
+      ],
+      "status": "部分欄位待核對"
+    },
+    {
+      "gaap_gross_margin": 73.59,
+      "gaap_operating_margin": 15.3,
+      "non_gaap_operating_margin": 30.3,
+      "gaap_eps": 0.61,
+      "non_gaap_eps": 1.03,
+      "operating_cash_flow": 554,
+      "capex": 170,
+      "fcf": 384,
+      "fcf_margin": 14.8,
+      "sbc": 301,
+      "diluted_shares": 711,
+      "kpis": {
+        "NGS ARR": 6300,
+        "RPO": 16000,
+        "訂閱與支援收入": 2080,
+        "產品收入": 514
+      },
+      "fiscal_year": 2026,
+      "fiscal_quarter": 2,
+      "period_end": "2026-01-31",
+      "release_date": "2026-02-17",
+      "checked_at": "2026-11-16",
+      "currency": "USD",
+      "unit": "million",
+      "revenue": 2594,
+      "revenue_yoy": 15,
+      "source_urls": [
+        "https://www.paloaltonetworks.com/company/press/2026/palo-alto-networks-reports-fiscal-second-quarter-2026-financial-results",
+        "https://www.sec.gov/Archives/edgar/data/1327567/000132756725000035/panw-20251031.htm",
+        "https://www.sec.gov/Archives/edgar/data/1327567/000132756726000005/panw-20260131.htm"
+      ],
+      "status": "部分欄位待核對",
+      "note": "本季 CFO＝六個月累計 2,325－Q1 1,771＝554；CapEx＝254－84＝170；FCF＝2,071－1,687＝384。由兩份官方 10-Q 推算單季，非累計值。"
+    },
+    {
+      "gaap_gross_margin": 67.55,
+      "gaap_operating_margin": -6.1,
+      "non_gaap_operating_margin": 27.12,
+      "gaap_eps": -0.22,
+      "non_gaap_eps": 0.85,
+      "operating_cash_flow": 871,
+      "capex": 83,
+      "fcf": 788,
+      "fcf_margin": 26.25,
+      "sbc": null,
+      "diluted_shares": 801,
+      "adjusted_fcf": 910,
+      "kpis": {
+        "NGS ARR": 8100,
+        "RPO": 18400,
+        "訂閱與支援收入": 2408,
+        "產品收入": 594
+      },
+      "note": "合併營收包含 CyberArk 與 Chronosphere 貢獻 388；NGS ARR 包含兩者貢獻 1,600。總成長率不等於有機成長率。",
+      "fiscal_year": 2026,
+      "fiscal_quarter": 3,
+      "period_end": "2026-04-30",
+      "release_date": "2026-06-02",
+      "checked_at": "2026-11-16",
+      "currency": "USD",
+      "unit": "million",
+      "revenue": 3002,
+      "revenue_yoy": 31,
+      "source_urls": [
+        "https://www.paloaltonetworks.com/company/press/2026/palo-alto-networks-reports-fiscal-third-quarter-2026-financial-results"
+      ],
+      "status": "部分欄位待核對"
+    },
+    {
+      "gaap_gross_margin": 67.57,
+      "gaap_operating_margin": 5.04,
+      "non_gaap_operating_margin": 29.65,
+      "gaap_eps": -0.35,
+      "non_gaap_eps": 1.02,
+      "operating_cash_flow": 1357,
+      "capex": 103,
+      "fcf": 1254,
+      "fcf_margin": 36.77,
+      "sbc": null,
+      "diluted_shares": 817,
+      "kpis": {
+        "NGS ARR": 9100,
+        "RPO": 21200
+      },
+      "note": "FCF 1,254＝CFO 1,357－資本支出 103。公司另揭露 Adjusted FCF，與此口徑不同；全年 Adjusted FCF Margin 38.4% 不是本季 FCF Margin。",
+      "fiscal_year": 2026,
+      "fiscal_quarter": 4,
+      "period_end": "2026-07-31",
+      "release_date": "2026-09-01",
+      "checked_at": "2026-11-16",
+      "currency": "USD",
+      "unit": "million",
+      "revenue": 3410,
+      "revenue_yoy": 34,
+      "source_urls": [
+        "https://www.paloaltonetworks.com/company/press/2026/palo-alto-networks-reports-fiscal-fourth-quarter-and-fiscal-year-2026-financial-results"
+      ],
+      "status": "部分欄位待核對"
+    }
+  ],
+  "methodology": "營收 YoY 與部分比率採公司公告四捨五入值。由金額計算之比率保留兩位小數；歷史 EPS 採各期原始新聞稿口徑。null 代表本版待核對，不等於公司未揭露。",
+  "guidance": {
+    "as_of": "2026-09-01",
+    "source_url": "https://www.paloaltonetworks.com/company/press/2026/palo-alto-networks-reports-fiscal-fourth-quarter-and-fiscal-year-2026-financial-results",
+    "next_period": "FY2027 Q1",
+    "next_revenue": [
+      3300,
+      3310
+    ],
+    "full_period": "FY2027",
+    "full_revenue": [
+      14100,
+      14200
+    ],
+    "note": "官方財測，非已實現營收。FY2027 non-GAAP OPM 29.5%；Adjusted FCF Margin 38%。"
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "ticker": "OKTA",
+  "checked_at": "2026-11-16",
+  "quarters": [
+    {
+      "gaap_gross_margin": 77.09,
+      "gaap_operating_margin": 3,
+      "non_gaap_operating_margin": 24,
+      "gaap_eps": 0.24,
+      "non_gaap_eps": 0.82,
+      "operating_cash_flow": 218,
+      "capex": null,
+      "fcf": 211,
+      "fcf_margin": 28.44,
+      "sbc": 138,
+      "diluted_shares": 178.402,
+      "kpis": {
+        "RPO": 4292,
+        "cRPO": 2328,
+        "訂閱收入": 724
+      },
+      "fiscal_year": 2026,
+      "fiscal_quarter": 3,
+      "period_end": "2025-10-31",
+      "release_date": "2025-12-02",
+      "checked_at": "2026-11-16",
+      "currency": "USD",
+      "unit": "million",
+      "revenue": 742,
+      "revenue_yoy": 12,
+      "source_urls": [
+        "https://www.okta.com/newsroom/press-releases/okta-announces-third-quarter-fiscal-year-2026-financial-results/",
+        "https://investor.okta.com/news-and-events/news-releases/news-details/2025/Okta-Announces-Third-Quarter-Fiscal-Year-2026-Financial-Results/default.aspx"
+      ],
+      "status": "部分欄位待核對",
+      "note": "CapEx 欄位僅列不動產與設備購置；公司 FCF 另扣資本化軟體，因此不能只用 CFO 減此欄直接重算 FCF。"
+    },
+    {
+      "gaap_gross_margin": 77.92,
+      "gaap_operating_margin": 6,
+      "non_gaap_operating_margin": 26,
+      "gaap_eps": 0.35,
+      "non_gaap_eps": 0.9,
+      "operating_cash_flow": 258,
+      "capex": 2,
+      "fcf": 252,
+      "fcf_margin": 33.11,
+      "sbc": 134,
+      "diluted_shares": 180.45,
+      "kpis": {
+        "RPO": 4827,
+        "cRPO": 2513,
+        "訂閱收入": 747
+      },
+      "fiscal_year": 2026,
+      "fiscal_quarter": 4,
+      "period_end": "2026-01-31",
+      "release_date": "2026-03-04",
+      "checked_at": "2026-11-16",
+      "currency": "USD",
+      "unit": "million",
+      "revenue": 761,
+      "revenue_yoy": 11,
+      "source_urls": [
+        "https://investor.okta.com/news-and-events/news-releases/news-details/2026/Okta-Announces-Fourth-Quarter-And-Fiscal-Year-2026-Financial-Results/default.aspx"
+      ],
+      "status": "部分欄位待核對",
+      "note": "CapEx 欄位僅列不動產與設備購置；公司 FCF 另扣資本化軟體，因此不能只用 CFO 減此欄直接重算 FCF。"
+    },
+    {
+      "gaap_gross_margin": 77.78,
+      "gaap_operating_margin": 7,
+      "non_gaap_operating_margin": 25,
+      "gaap_eps": 0.42,
+      "non_gaap_eps": 0.91,
+      "operating_cash_flow": 277,
+      "capex": 1,
+      "fcf": 271,
+      "fcf_margin": 35.42,
+      "sbc": 117,
+      "diluted_shares": 177.699,
+      "kpis": {
+        "RPO": 4719,
+        "cRPO": 2499,
+        "訂閱收入": 750
+      },
+      "fiscal_year": 2027,
+      "fiscal_quarter": 1,
+      "period_end": "2026-04-30",
+      "release_date": "2026-05-28",
+      "checked_at": "2026-11-16",
+      "currency": "USD",
+      "unit": "million",
+      "revenue": 765,
+      "revenue_yoy": 11,
+      "source_urls": [
+        "https://investor.okta.com/news-and-events/news-releases/news-details/2026/Okta-Announces-First-Quarter-Fiscal-Year-2027-Financial-Results/default.aspx"
+      ],
+      "status": "部分欄位待核對",
+      "note": "CapEx 欄位僅列不動產與設備購置；公司 FCF 另扣資本化軟體，因此不能只用 CFO 減此欄直接重算 FCF。"
+    },
+    {
+      "gaap_gross_margin": 79.63,
+      "gaap_operating_margin": 13,
+      "non_gaap_operating_margin": 28,
+      "gaap_eps": 0.65,
+      "non_gaap_eps": 1.05,
+      "operating_cash_flow": 234,
+      "capex": 1,
+      "fcf": 227,
+      "fcf_margin": 28.2,
+      "sbc": 114,
+      "diluted_shares": 178.808,
+      "kpis": {
+        "RPO": 4858,
+        "cRPO": 2585,
+        "訂閱收入": 793
+      },
+      "fiscal_year": 2027,
+      "fiscal_quarter": 2,
+      "period_end": "2026-07-31",
+      "release_date": "2026-08-26",
+      "checked_at": "2026-11-16",
+      "currency": "USD",
+      "unit": "million",
+      "revenue": 805,
+      "revenue_yoy": 11,
+      "source_urls": [
+        "https://investor.okta.com/news-and-events/news-releases/news-details/2026/Okta-Announces-Second-Quarter-Fiscal-Year-2027-Financial-Results/default.aspx"
+      ],
+      "status": "部分欄位待核對",
+      "note": "CapEx 欄位僅列不動產與設備購置；公司 FCF 另扣資本化軟體，因此不能只用 CFO 減此欄直接重算 FCF。"
+    }
+  ],
+  "methodology": "營收 YoY 與部分比率採公司公告四捨五入值。由金額計算之比率保留兩位小數；歷史 EPS 採各期原始新聞稿口徑。null 代表本版待核對，不等於公司未揭露。",
+  "guidance": {
+    "as_of": "2026-08-26",
+    "source_url": "https://investor.okta.com/news-and-events/news-releases/news-details/2026/Okta-Announces-Second-Quarter-Fiscal-Year-2027-Financial-Results/default.aspx",
+    "next_period": "FY2027 Q3",
+    "next_revenue": [
+      813,
+      817
+    ],
+    "full_period": "FY2027",
+    "full_revenue": [
+      3216,
+      3226
+    ],
+    "note": "官方財測，非已實現營收。FY2027 non-GAAP FCF 財測 910–930。"
+  }
+}
