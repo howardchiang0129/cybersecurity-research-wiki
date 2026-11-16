@@ -53,11 +53,3 @@ python3 -m http.server 8000
 5. 執行建置與檢查後提交 GitHub，Pages 會發布新的靜態內容。
 
 AGENTS.md 是執行規則，並不是自動執行器。網站沒有設定每季自動抓取或自動發布。
-
-## GitHub Pages 發布
-
-Repository Settings → Pages → Deploy from a branch → main → /(root) → Save。網站使用相對路徑，支援 repository 子路徑部署。根目錄 .nojekyll 表示直接提供靜態檔。
-
-## 作業重點：規則如何幫助 AI 延伸？
-
-AGENTS.md 定義領域頁、公司頁與財報指標的固定結構，以及命名、資料來源、季度更新與驗收流程。AI 新增內容時可重用共用樣式與生成模板；更新財務時只需追加結構化資料並同步最新解讀，讓不同頁面維持一致性，保留歷史並可追溯來源。
